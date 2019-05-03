@@ -4,6 +4,7 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
+    <link href="./CSS_images/style.css" rel="stylesheet">
    <title>Membres de la DWM11 Academy</title>
 </head>
 <body>

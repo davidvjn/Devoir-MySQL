@@ -4,12 +4,13 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
+    <link href="./CSS_images/style.css" rel="stylesheet">
     <title>Update Student</title>
 </head>
 <body>
     <?php require './templates/header.html' ?>
     <main>
-        <form action="./controllers/updateOneStudent.php" method="POST">
+        <form action="./controllers/updateOneStudent.php" method="POST" class="formClass">
         <input type="hidden" name="id" value="<?= $student['id'] ?>">
             <div>
                 <label for="firstname">Prénom</label>

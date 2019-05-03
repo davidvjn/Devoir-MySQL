@@ -2,6 +2,7 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
+    <link href="./CSS_images/style.css" rel="stylesheet">
     <title>Ajouter un étudiant</title>
 </head>
 <body>
